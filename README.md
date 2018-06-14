@@ -1,3 +1,3 @@
 # python-xsa-setup
 
-This repository contains a simple micro-services created using Python with SAP HANA XSA.
+This branch contains version of pyapp after the first blog.
