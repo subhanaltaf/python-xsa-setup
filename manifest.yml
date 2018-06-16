@@ -4,3 +4,5 @@ applications:
   host: pyapp
   path: .
   command: python server.py
+  services:
+   - hdi-db
